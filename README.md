@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +62,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
+## Math
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
