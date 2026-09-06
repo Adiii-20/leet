@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adiii-20/leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Adiii-20/leet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
+| [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adiii-20/leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Adiii-20/leet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
+| [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adiii-20/leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Adiii-20/leet/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Adiii-20/leet/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Sorting
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
