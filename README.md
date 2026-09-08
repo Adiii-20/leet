@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adiii-20/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 ## Greedy
@@ -118,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
