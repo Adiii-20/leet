@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Adiii-20/leet/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adiii-20/leet/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Adiii-20/leet/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adiii-20/leet/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
