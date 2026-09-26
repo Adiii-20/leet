@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Adiii-20/leet/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adiii-20/leet/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiii-20/leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adiii-20/leet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Adiii-20/leet/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Adiii-20/leet/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adiii-20/leet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adiii-20/leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adiii-20/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiii-20/leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adiii-20/leet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adiii-20/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
