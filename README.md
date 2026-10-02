@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Adiii-20/leet/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adiii-20/leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Adiii-20/leet/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adiii-20/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adiii-20/leet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Adiii-20/leet/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Adiii-20/leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Adiii-20/leet/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
@@ -181,6 +183,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adiii-20/leet/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Adiii-20/leet/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiii-20/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adiii-20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adiii-20/leet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
