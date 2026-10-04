@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Adiii-20/leet/tree/master/0678-valid-parenthesis-string) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Adiii-20/leet/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adiii-20/leet/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Adiii-20/leet/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adiii-20/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Adiii-20/leet/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Adiii-20/leet/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Adiii-20/leet/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 ## Knapsack Problem
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Adiii-20/leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Adiii-20/leet/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Adiii-20/leet/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/Adiii-20/leet/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiii-20/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adiii-20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adiii-20/leet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adiii-20/leet/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Adiii-20/leet/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiii-20/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adiii-20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adiii-20/leet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adiii-20/leet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adiii-20/leet/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Adiii-20/leet/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adiii-20/leet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adiii-20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
