@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Adiii-20/leet/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/Adiii-20/leet/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiii-20/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adiii-20/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adiii-20/leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Adiii-20/leet/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adiii-20/leet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adiii-20/leet/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
