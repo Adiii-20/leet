@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adiii-20/leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adiii-20/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adiii-20/leet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Adiii-20/leet/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adiii-20/leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adiii-20/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Adiii-20/leet/tree/master/0368-largest-divisible-subset) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adiii-20/leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Adiii-20/leet/tree/master/1872-stone-game-viii) |
+| [2409-count-days-spent-together](https://github.com/Adiii-20/leet/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Adiii-20/leet/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adiii-20/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adiii-20/leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
