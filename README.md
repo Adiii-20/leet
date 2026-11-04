@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/Adiii-20/leet/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Adiii-20/leet/tree/master/1043-partition-array-for-maximum-sum) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adiii-20/leet/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
+| [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Complete Knapsack
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Adiii-20/leet/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Adiii-20/leet/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adiii-20/leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
