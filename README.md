@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adiii-20/leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adiii-20/leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Adiii-20/leet/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0835-image-overlap](https://github.com/Adiii-20/leet/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Adiii-20/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Adiii-20/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Adiii-20/leet/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Adiii-20/leet/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Adiii-20/leet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Adiii-20/leet/tree/master/0678-valid-parenthesis-string) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Adiii-20/leet/tree/master/1043-partition-array-for-maximum-sum) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Adiii-20/leet/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Adiii-20/leet/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/Adiii-20/leet/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
