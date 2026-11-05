@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adiii-20/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Adiii-20/leet/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Adiii-20/leet/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Adiii-20/leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Adiii-20/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Adiii-20/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Adiii-20/leet/tree/master/0542-01-matrix) |
 | [0835-image-overlap](https://github.com/Adiii-20/leet/tree/master/0835-image-overlap) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Adiii-20/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Adiii-20/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
