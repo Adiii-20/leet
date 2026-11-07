@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Adiii-20/leet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Adiii-20/leet/tree/master/0542-01-matrix) |
+| [0785-is-graph-bipartite](https://github.com/Adiii-20/leet/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Adiii-20/leet/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Adiii-20/leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Adiii-20/leet/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Adiii-20/leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Adiii-20/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Adiii-20/leet/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Adiii-20/leet/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Adiii-20/leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Adiii-20/leet/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Adiii-20/leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Adiii-20/leet/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Adiii-20/leet/tree/master/0785-is-graph-bipartite) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Adiii-20/leet/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -354,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Adiii-20/leet/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Adiii-20/leet/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Adiii-20/leet/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
