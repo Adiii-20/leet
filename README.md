@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Adiii-20/leet/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Adiii-20/leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adiii-20/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adiii-20/leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adiii-20/leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adiii-20/leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Adiii-20/leet/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Adiii-20/leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adiii-20/leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adiii-20/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Adiii-20/leet/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adiii-20/leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adiii-20/leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adiii-20/leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Adiii-20/leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adiii-20/leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
